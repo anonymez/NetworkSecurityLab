@@ -1,0 +1,1 @@
+http://eddmann.com/posts/creating-a-basic-auth-wsgi-middleware-in-python/
